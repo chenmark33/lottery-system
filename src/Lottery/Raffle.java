@@ -4,9 +4,6 @@ import java.util.*;
 
 public class Raffle {
 
-    public void main(String[] args) {
-    }
-
     private Random RNG;
     private ArrayList<User> LotteryPlayers;
     private ArrayList<NewYorkShows> ShowList;
