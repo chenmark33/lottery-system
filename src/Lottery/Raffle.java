@@ -2,6 +2,10 @@ package Lottery;
 
 import java.util.*;
 
+/**
+ * This class represents a ticket raffle
+ * @author Mark Chen
+ */
 public class Raffle {
 
     private Random RNG;
