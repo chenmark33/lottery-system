@@ -19,6 +19,10 @@ public class User {
         this.email = email;
     }
 
+    /**
+     * Returns the account holder's username
+     * @return the account holder's username.
+     */
     public String getUsername() {
         return this.username;
     }

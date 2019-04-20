@@ -20,18 +20,32 @@ public class NewYorkShows {
 
     }
 
+    /**
+     * Returns the show title
+     * @return the show title.
+     */
     public String getTitle() {
         return title;
     }
 
+    /**
+     * Sets the title.
+     */
     public void setTitle(String title) {
         this.title = title;
     }
 
+    /**
+     * Returns the show's cost
+     * @return the show's cost.
+     */
     public int getCost() {
         return cost;
     }
 
+    /**
+     * Sets the cost.
+     */
     public void setCost(int cost) {
         this.cost = cost;
     }
